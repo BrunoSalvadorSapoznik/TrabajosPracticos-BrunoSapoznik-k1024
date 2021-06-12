@@ -22,11 +22,11 @@ int main()
          else{
              if(b1==b2){
                     cout<<"Las rectas son paralelas y se intersectan en todos los puntos pertencientes a la recta: "<<m1<<"x+"<<b1<<endl;
-                     }
+                           }
                   else{
                         cout<<"Las rectas son paralelas y no se cortan en ningún punto"<<endl;
                        }
-    }
+             }
     ;
 
     return 0;
